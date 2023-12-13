@@ -1,14 +1,12 @@
-/* WeatherApp.css */
 
-/* Body styles for the entire app */
 body {
     margin: 0;
     padding: 0;
   
-    background-image: url('https://th.bing.com/th/id/OIP.ypL0U7DdYH63WE4VZqsDFgHaH_?w=165&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7'); /* Replace with your image URL */
+    background-image: url('https://th.bing.com/th/id/OIP.ypL0U7DdYH63WE4VZqsDFgHaH_?w=165&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7'); 
     background-size: cover;
     background-position: center;
-    height: 100vh; /* Ensures full height */
+    height: 100vh; 
 
 
     
@@ -17,13 +15,13 @@ body {
   }
   
   .weather-app {
-    background: rgba(255, 255, 255, 0.8); /* Background color for the weather app */
+    background: rgba(255, 255, 255, 0.8); 
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Adding shadow to the app */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
   }
 
   
   
-  /* Rest of your custom styling for the WeatherApp component */
+
   
